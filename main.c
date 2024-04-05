@@ -10,12 +10,10 @@
 
 int main(void)
 {
-    // printf("(to) ");
-    // char ip[16] = { 0 };
-    // scanf("%15s", ip);
-    // getchar();
-
-    const char* ip = "101.43.176.53";
+    printf("(to) ");
+    char ip[16] = { 0 };
+    scanf("%15s", ip);
+    getchar();
 
     tftpd_start(".", 10000);
     // tftpd_start(".", TFTP_DEFAULT_PORT);
