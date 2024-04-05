@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -rdynamic CMakeFiles/tft.dir/main.c.o CMakeFiles/tft.dir/tftp_base.c.o CMakeFiles/tft.dir/tftp_client.c.o -o tft 

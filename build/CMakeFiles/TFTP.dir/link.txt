@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -rdynamic CMakeFiles/TFTP.dir/main.c.o CMakeFiles/TFTP.dir/tftp_base.c.o CMakeFiles/TFTP.dir/tftp_client.c.o -o TFTP 

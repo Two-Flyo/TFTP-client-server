@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "tftp_server.h": "c",
+        "tftp_base.h": "c",
+        "pthread.h": "c"
+    }
+}

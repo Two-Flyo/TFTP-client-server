@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/lrf/Code/TFTP/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/tftp.dir/main.c.o -c /home/lrf/Code/TFTP/main.c",
+  "file": "/home/lrf/Code/TFTP/main.c"
+},
+{
+  "directory": "/home/lrf/Code/TFTP/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/tftp.dir/tftp_base.c.o -c /home/lrf/Code/TFTP/tftp_base.c",
+  "file": "/home/lrf/Code/TFTP/tftp_base.c"
+},
+{
+  "directory": "/home/lrf/Code/TFTP/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/tftp.dir/tftp_client.c.o -c /home/lrf/Code/TFTP/tftp_client.c",
+  "file": "/home/lrf/Code/TFTP/tftp_client.c"
+},
+{
+  "directory": "/home/lrf/Code/TFTP/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/tftp.dir/tftp_server.c.o -c /home/lrf/Code/TFTP/tftp_server.c",
+  "file": "/home/lrf/Code/TFTP/tftp_server.c"
+}
+]
